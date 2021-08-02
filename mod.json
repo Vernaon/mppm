@@ -2,7 +2,7 @@
 	"name": "mine.button",
 	"displayName": "mppm",
 	"author":"NothingImportant",
-	"description": "Mindustry player pos mining\n\nMod for Mindustry that adds button for player pos mining\n\n[tan] Requires ui-lib",
+	"description": "Mindustry player pos mining\n\nMod for Mindustry that adds button for player pos mining\n\n[#777777]Requires ui-lib",
 	"version": "1",
 	"minGameVersion": 105,
 	"hidden": true
