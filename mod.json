@@ -1,0 +1,9 @@
+{
+	"name": "mine.button",
+	"displayName": "mppm",
+	"author":"NothingImportant",
+	"description": "Mindustry player pos mining\n\nMod for Mindustry that adds button for player pos mining",
+	"version": "1",
+	"minGameVersion": 105,
+	"hidden": true
+}
